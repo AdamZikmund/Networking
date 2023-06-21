@@ -1,3 +1,3 @@
 # Networking
 
-A description of this package.
+Simple networking layer for swift ecosystem.
